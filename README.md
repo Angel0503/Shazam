@@ -3,7 +3,7 @@
 This project will try to reproduce Shazam algorithm.
 The idea comes from this video : https://www.youtube.com/watch?v=En7XJu7cNDM
 
-## What to develop
+## The process
 
 ### 1- Create a spectrogram of an audio file
 A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time.
