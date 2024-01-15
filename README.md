@@ -5,7 +5,12 @@ The idea comes from this video : https://www.youtube.com/watch?v=En7XJu7cNDM
 
 ## What to develop
 
-### 1- Créer le spectrogramme d'un fichier audio
+### 1- Create a spectrogram of an audio file
+A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time.
+The spectrogram is usually represented as a heat map, i.e., as an image with the intensity shown by varying the color or brightness.
+Fourier transformation is used to create the spectrogram.
+
+## TO DO
 
 ### 2- Simplifier les spectrogrammes
 Retenir les fréquences les plus importantes (celles qui ont la plus forte intensité)
